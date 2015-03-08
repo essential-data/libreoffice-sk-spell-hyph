@@ -9,7 +9,7 @@
        </simple-license>
     </registration>
 
-    <version value="2013.03.04" />
+    <version value="2013.03.08" />
 
     <!--A unique identifier for your extension... -->
     <identifier value="sk.essential-data.spellchecker.hyphenation" />
