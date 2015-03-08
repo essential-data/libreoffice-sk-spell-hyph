@@ -38,7 +38,7 @@
     <!-- MORE OPTIONAL LIKE ENTRIES FOLLOWING (may easily be omitted, out-commented by default)... -->
 
     <update-information>
-        <src xlink:href="http://www.sk-spell.sk.cx/file_download/54/sk-spell-hyph.update.sk.xml" />
+        <src xlink:href="https://raw.githubusercontent.com/essential-data/libreoffice-sk-spell-hyph/master/essential-data-sk-spell-hyph.update.sk.xml" />
     </update-information>
 
 

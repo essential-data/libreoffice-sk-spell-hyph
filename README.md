@@ -1,5 +1,5 @@
-Slovenská podpora pre ElasticSearch
-===================================
+Slovenská podpora pre OpenOffice.org a LibreOffice
+==================================================
 
 Autorské práva
 --------------
@@ -29,6 +29,12 @@ Inštalácia
 ----------
 
 Stiahnite poslednú binárnu verziu balíčku a nainštalujte ju do OpenOffice.org alebo LibreOffice.
+
+Poďakovanie
+-----------
+
+Ďakujeme JÚLŠ za vytvorenie slovníka a Zdenkovi Podobnému z projektu sk-spell za dlhoročnú prácu
+na prvom slovníku.
 
 Zaujíma vás práca z jazykom? Pracujte pre nás!
 ----------------------------------------------
