@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<description xmlns="http://openoffice.org/extensions/description/2006" xmlns:d="http://openoffice.org/extensions/description/2006"  xmlns:xlink="http://www.w3.org/1999/xlink">
+
+    <!-- Súhlas s licenciou -->>
+	  <registration>
+       <simple-license accept-by="admin">
+         <license-text xlink:href="README_sk.txt" lang="sk-SK" />
+         <license-text xlink:href="README_en.txt" lang="en-US" />
+       </simple-license>
+    </registration>
+
+    <version value="2011.02.28" />
+
+    <!--A unique identifier for your extension... -->
+    <identifier value="sk.essential-data.spellchecker.hyphenation" />
+
+    <!--A name for the extension to be used in the UI... -->
+    <display-name>
+        <name lang="en">Slovak spell check dictionary (by Essential Data) and hyphenation rules (version 1.0)</name>
+        <name lang="sk">Slovenský slovník pre kontrolu pravopisu (Essential Data) a delenie slov (verzia 1.0)</name>
+        <name lang="cs">Slovenský slovník pre kontrolu pravopisu (Essential Data) a delenie slov (verzia 1.0)</name>
+    </display-name>
+
+    <icon>
+	    <default xlink:href="images/sk-spell-hyph.png" />
+    </icon>
+
+    <!--Dictionaries should work with all platforms...-->
+    <platform value="all" />
+
+    <!--A minimal OpenOffice.org version the extension requires to be used with.
+        For dictionary extensions that will be 'OpenOffice.org 3.0'
+    -->
+    <dependencies>
+        <OpenOffice.org-minimal-version value="3.0" d:name="OpenOffice.org 3.0" />
+    </dependencies>
+
+    <!-- MORE OPTIONAL LIKE ENTRIES FOLLOWING (may easily be omitted, out-commented by default)... -->
+
+    <update-information>
+        <src xlink:href="http://www.sk-spell.sk.cx/file_download/54/sk-spell-hyph.update.sk.xml" />
+    </update-information>
+
+
+    <publisher>
+        <name xlink:href="http://www.essential-data.sk/" lang="sk">essential data language tools</name>
+    </publisher>
+
+
+</description>
