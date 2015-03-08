@@ -28,7 +28,7 @@ Tento projekt neobsahuje synonymický (Thesaurus), odporúčame použiť [rozš�
 Inštalácia
 ----------
 
-Stiahnite poslednú binárnu verziu balíčku a nainštalujte ju do OpenOffice.org alebo LibreOffice.
+[Stiahnite poslednú binárnu verziu balíčku](https://github.com/essential-data/libreoffice-sk-spell-hyph/releases/latest) a nainštalujte ju do OpenOffice.org alebo LibreOffice.
 
 Poďakovanie
 -----------
